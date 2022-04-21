@@ -1,2 +1,1 @@
-hiii
-i love you  
+print('Hello, mtg!, i love youuu')
